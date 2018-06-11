@@ -1,12 +1,18 @@
 # Awesome AI books
 
-Some awesome AI related books and pdfs for learning.
+Some awesome AI related books and pdfs for download and learning.
 
 ## Preface
 
 This repo only used for learning, do not use in business, and welcome for providing great books in this repo, if you have great books for sharing, please create PR for me, if any books have new edition, also welcome to update it.
 
 Due to github Large file storage limition issue, all books pdf stored in gitlab repo, please also create PR using git-lfs for gitlab [repo](https://gitlab.com/zslucky/awesome-AI-books)
+
+## Organization with papers/researchs
+
+- [Nature](https://www.nature.com/nature/)
+- [DeepMind Publications](https://deepmind.com/research/publications/)
+- [OpenAI Research](https://openai.com/research/)
 
 ## Books
 
