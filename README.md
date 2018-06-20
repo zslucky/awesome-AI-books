@@ -10,11 +10,18 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 
 ## Organization with papers/researchs
 
+- [Science](http://www.sciencemag.org/)
 - [Nature](https://www.nature.com/nature/)
 - [DeepMind Publications](https://deepmind.com/research/publications/)
 - [OpenAI Research](https://openai.com/research/)
 
 ## Books
+
+### Data mining
+
+- [Introduction to Data Mining](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Introduction%20to%20Data%20Mining%20-%20Pang-Ning%20Tan.pdf) - Pang-Ning Tan
+- [Programming Collective Intelligence](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Programming%20Collective%20Intelligence%20-%20Toby%20Segaran.pdf) - Toby Segaran
+- [集体智慧编程](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B%20-%20Toby%20Segaran.pdf) - Toby Segaran
 
 ### Mathematics
 
