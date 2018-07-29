@@ -61,3 +61,11 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
  - [深度学习 (原书Deep Learning)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Deep%20Learning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20-%20Ian%20Goodfellow%20&%20Yoshua%20Bengio%20&%20Aaron%20Courville.pdf) - Ian Goodfellow & Yoshua Bengio & Aaron Courville
  - [神经网络与机器学习 (原书Neural Networks and Learning Machines)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Deep%20Learning/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20-%20Simon%20Haykin.pdf) - Simon Haykin
  - [神经网络设计 (原书Neural Network Design)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Deep%20Learning/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1%20-%20Martin%20Hagan.pdf) - Martin Hagan
+
+## Libs With Online Books
+
+ - [Xgboost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) - Xgboost lib's document.
+ - [LightGBM](https://lightgbm.readthedocs.io/en/latest/Features.html#) - Microsoft lightGBM lib's features document.
+ - [CatBoost](https://arxiv.org/pdf/1706.09516.pdf) - Yandex Catboost lib's key algorithm pdf papper.
+ - [StackNet](https://github.com/kaz-Anova/StackNet) - Some model stacking algorithms implemented in this lib.
+ - [TPOT](https://github.com/EpistasisLab/tpot) - TPOT is a lib for AutoML.
