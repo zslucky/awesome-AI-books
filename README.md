@@ -15,6 +15,13 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 - [DeepMind Publications](https://deepmind.com/research/publications/)
 - [OpenAI Research](https://openai.com/research/)
 
+## Training ground
+
+- [OpenAI Gym](https://gym.openai.com/): A toolkit for developing and comparing reinforcement learning algorithms. (Can play with [Atari](https://en.wikipedia.org/wiki/Atari), Box2d, MuJoCo etc...)
+- [DeepMind Pysc2](https://github.com/deepmind/pysc2): StarCraft II Learning Environment.
+- [Valve Dota2](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting): Dota2 game acessing api. ([CN doc](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting:zh-cn))
+
+
 ## Books
 
 ### Data mining
