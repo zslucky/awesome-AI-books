@@ -71,12 +71,19 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 - [神经网络设计 (原书Neural Network Design)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Deep%20Learning/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1%20-%20Martin%20Hagan.pdf) - Martin Hagan
 
 ## Libs With Online Books
+- Reinforcement Learning
+  - [A3C](https://arxiv.org/pdf/1602.01783.pdf) - Google DeepMind Asynchronous Advantage Actor-Critic algorithm
+  - [Q-Learning](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf) SARSA [DQN](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) - Q-Learning is a value-based Reinforcement Learning algorithm
+  - [DDPG](https://arxiv.org/pdf/1509.02971.pdf) - Deep Deterministic Policy Gradient,
 - Machine Learning
-  - [Xgboost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) - Xgboost lib's document.
-  - [LightGBM](https://lightgbm.readthedocs.io/en/latest/Features.html#) - Microsoft lightGBM lib's features document.
-  - [CatBoost](https://arxiv.org/pdf/1706.09516.pdf) - Yandex Catboost lib's key algorithm pdf papper.
-  - [StackNet](https://github.com/kaz-Anova/StackNet) - Some model stacking algorithms implemented in this lib.
+  - [Xgboost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) (**Python, R, JVM, Julia, CLI**) - Xgboost lib's document.
+  - [LightGBM](https://lightgbm.readthedocs.io/en/latest/Features.html#) (**Python, R, CLI**) - Microsoft lightGBM lib's features document.
+  - [CatBoost](https://arxiv.org/pdf/1706.09516.pdf) (**Python, R, CLI**) - Yandex Catboost lib's key algorithm pdf papper.
+  - [StackNet](https://github.com/kaz-Anova/StackNet) (**Java, CLI**) - Some model stacking algorithms implemented in this lib.
   - [RGF](https://arxiv.org/pdf/1109.0887.pdf) - Learning Nonlinear Functions Using `Regularized Greedy Forest` (multi-core implementation [FastRGF](https://github.com/RGF-team/rgf/tree/master/FastRGF))
   - [FM](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf), [FastFM](https://arxiv.org/pdf/1505.00641.pdf), [FFM](https://arxiv.org/pdf/1701.04099.pdf) - Factorization Machines and some extended algorithms
+- Dimensionality Rreduction
+  - [t-SNE](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf) - T-distributed Stochastic Neighbor Embedding (t-SNE) is a machine learning algorithm for visualization
 - Auto ML
-  - [TPOT](https://github.com/EpistasisLab/tpot) - TPOT is a lib for AutoML.
+  - [TPOT](https://github.com/EpistasisLab/tpot) (**Python**) - TPOT is a lib for AutoML.
+  - [TransmogrifAI](https://docs.transmogrif.ai/en/stable/index.html) (**JVM**) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Spark
