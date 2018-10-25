@@ -87,6 +87,8 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
   - [BERT](https://arxiv.org/pdf/1810.04805.pdf) - Pre-training of Deep Bidirectional Transformers for Language Understanding
 - **Deep Learning**
   - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf) - Densely Connected Convolutional Networks
+  - [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) - Fast Region-based Convolutional Network method (Fast R-CNN) for object detection
+  - [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf) - Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition.
 - **Transfer Learning**
   - [GCN](https://arxiv.org/pdf/1803.08035.pdf) - Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs
 - **Auto ML**
