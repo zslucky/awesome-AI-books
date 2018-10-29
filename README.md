@@ -76,6 +76,7 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
   - [A3C](https://arxiv.org/pdf/1602.01783.pdf) - Google DeepMind Asynchronous Advantage Actor-Critic algorithm
   - [Q-Learning](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf) SARSA [DQN](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) - Q-Learning is a value-based Reinforcement Learning algorithm
   - [DDPG](https://arxiv.org/pdf/1509.02971.pdf) - Deep Deterministic Policy Gradient,
+  - [Large-Scale Curiosity](https://arxiv.org/pdf/1808.04355.pdf) - Large-Scale Study of Curiosity-Driven Learning
 - **Machine Learning**
   - [Xgboost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) (**Python, R, JVM, Julia, CLI**) - Xgboost lib's document.
   - [LightGBM](https://lightgbm.readthedocs.io/en/latest/Features.html#) (**Python, R, CLI**) - Microsoft lightGBM lib's features document.
@@ -89,6 +90,8 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
   - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf) - Densely Connected Convolutional Networks
   - [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) - Fast Region-based Convolutional Network method (Fast R-CNN) for object detection
   - [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf) - Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition.
+- **Meta Learning**
+  - [MAML](https://arxiv.org/pdf/1703.03400.pdf) - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 - **Transfer Learning**
   - [GCN](https://arxiv.org/pdf/1803.08035.pdf) - Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs
 - **Auto ML**
