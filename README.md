@@ -22,6 +22,7 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 - [Valve Dota2](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting): Dota2 game acessing api. ([CN doc](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting:zh-cn))
 - [Google Dopamine](https://github.com/google/dopamine): Dopamine is a research framework for fast prototyping of reinforcement learning algorithms
 - [TextWorld](https://github.com/Microsoft/TextWorld): Microsoft - A learning environment sandbox for training and testing reinforcement learning (RL) agents on text-based games.
+- [Mini Grid](https://github.com/maximecb/gym-minigrid): Minimalistic gridworld environment for OpenAI Gym
 
 
 ## Books
