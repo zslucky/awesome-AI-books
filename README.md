@@ -101,5 +101,8 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 - **Dimensionality Rreduction**
   - [t-SNE](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf) (**Non-linear/Non-params**) - T-distributed Stochastic Neighbor Embedding (t-SNE) is a machine learning algorithm for visualization
   - [PCA](https://www.cs.cmu.edu/~elaw/papers/pca.pdf) (**Linear**) - Principal component analysis
+  - [LDA](https://www.isip.piconepress.com/publications/reports/1998/isip/lda/lda_theory.pdf) (**Linear**) - Linear Discriminant Analysis
+  - [LLE](https://cs.nyu.edu/~roweis/lle/papers/lleintro.pdf) (**Non-linear**) - Locally linear embedding
+  - [Laplacian Eigenmaps](http://web.cse.ohio-state.edu/~belkin.8/papers/LEM_NC_03.pdf) - Laplacian Eigenmaps for Dimensionality Reduction and Data Representation
   - [Sammon Mapping](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0910/henderson.pdf) (**Non-linear**) - Sammon mapping is designed to minimise the differences between corresponding inter-point distances in the
 two spaces
