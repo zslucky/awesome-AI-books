@@ -19,6 +19,7 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 
 - [OpenAI Gym](https://gym.openai.com/): A toolkit for developing and comparing reinforcement learning algorithms. (Can play with [Atari](https://en.wikipedia.org/wiki/Atari), Box2d, MuJoCo etc...)
 - [DeepMind Pysc2](https://github.com/deepmind/pysc2): StarCraft II Learning Environment.
+- [TorchCraftAI](https://torchcraft.github.io/TorchCraftAI/): A bot platform for machine learning research on StarCraft®: Brood War®
 - [Valve Dota2](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting): Dota2 game acessing api. ([CN doc](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting:zh-cn))
 - [Google Dopamine](https://github.com/google/dopamine): Dopamine is a research framework for fast prototyping of reinforcement learning algorithms
 - [TextWorld](https://github.com/Microsoft/TextWorld): Microsoft - A learning environment sandbox for training and testing reinforcement learning (RL) agents on text-based games.
