@@ -32,6 +32,7 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 
 - [Introduction to Data Mining](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Introduction%20to%20Data%20Mining%20-%20Pang-Ning%20Tan.pdf) - Pang-Ning Tan
 - [Programming Collective Intelligence](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Programming%20Collective%20Intelligence%20-%20Toby%20Segaran.pdf) - Toby Segaran
+- [Feature Engineering for Machine Learning](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Feature%20Engineering%20for%20Machine%20Learning.pdf) - Amanda Casari, Alice Zheng
 - [集体智慧编程](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B%20-%20Toby%20Segaran.pdf) - Toby Segaran
 
 ### Mathematics
