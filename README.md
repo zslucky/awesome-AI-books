@@ -77,10 +77,11 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 ## Libs With Online Books
 - **Reinforcement Learning**
   - [A3C](https://arxiv.org/pdf/1602.01783.pdf) - Google DeepMind Asynchronous Advantage Actor-Critic algorithm
-  - [Q-Learning](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf) SARSA [DQN](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) - Q-Learning is a value-based Reinforcement Learning algorithm
+  - [Q-Learning](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf) SARSA [DQN](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) [DDQN](https://arxiv.org/pdf/1509.06461.pdf) - Q-Learning is a value-based Reinforcement Learning algorithm
   - [DDPG](https://arxiv.org/pdf/1509.02971.pdf) - Deep Deterministic Policy Gradient,
   - [Large-Scale Curiosity](https://arxiv.org/pdf/1808.04355.pdf) - Large-Scale Study of Curiosity-Driven Learning
   - [RND](https://arxiv.org/pdf/1810.12894.pdf) - OpenAI Random Network Distillation, an exploration bonus for deep reinforcement learning method.
+  - [DQV](https://arxiv.org/pdf/1810.00368.pdf) - Deep Quality-Value (DQV) Learning
 - **Machine Learning**
   - [Xgboost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) (**Python, R, JVM, Julia, CLI**) - Xgboost lib's document.
   - [LightGBM](https://lightgbm.readthedocs.io/en/latest/Features.html#) (**Python, R, CLI**) - Microsoft lightGBM lib's features document.
