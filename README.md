@@ -28,6 +28,10 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 
 ## Books
 
+### Introductory theory
+
+- [Artificial Intelligence-A Modern Approach (3rd Edition)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Introductory%20theory/Artificial%20Intelligence-A%20Modern%20Approach.pdf) - Stuart Russell & peter Norvig
+
 ### Data mining
 
 - [Introduction to Data Mining](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Introduction%20to%20Data%20Mining%20-%20Pang-Ning%20Tan.pdf) - Pang-Ning Tan
