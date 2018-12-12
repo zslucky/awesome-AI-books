@@ -86,6 +86,7 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
   - [Large-Scale Curiosity](https://arxiv.org/pdf/1808.04355.pdf) - Large-Scale Study of Curiosity-Driven Learning
   - [RND](https://arxiv.org/pdf/1810.12894.pdf) - OpenAI Random Network Distillation, an exploration bonus for deep reinforcement learning method.
   - [DQV](https://arxiv.org/pdf/1810.00368.pdf) - Deep Quality-Value (DQV) Learning
+  - [ERL](https://arxiv.org/pdf/1805.07917.pdf) - Evolution-Guided Policy Gradient in Reinforcement Learning
 - **Machine Learning**
   - [Xgboost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) (**Python, R, JVM, Julia, CLI**) - Xgboost lib's document.
   - [LightGBM](https://lightgbm.readthedocs.io/en/latest/Features.html#) (**Python, R, CLI**) - Microsoft lightGBM lib's features document.
