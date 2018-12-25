@@ -93,7 +93,7 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
   - [CatBoost](https://arxiv.org/pdf/1706.09516.pdf) (**Python, R, CLI**) - Yandex Catboost lib's key algorithm pdf papper.
   - [StackNet](https://github.com/kaz-Anova/StackNet) (**Java, CLI**) - Some model stacking algorithms implemented in this lib.
   - [RGF](https://arxiv.org/pdf/1109.0887.pdf) - Learning Nonlinear Functions Using `Regularized Greedy Forest` (multi-core implementation [FastRGF](https://github.com/RGF-team/rgf/tree/master/FastRGF))
-  - [FM](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf), [FastFM](https://arxiv.org/pdf/1505.00641.pdf), [FFM](https://arxiv.org/pdf/1701.04099.pdf) - Factorization Machines and some extended algorithms
+  - [FM](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf), [FastFM](https://arxiv.org/pdf/1505.00641.pdf), [FFM](https://arxiv.org/pdf/1701.04099.pdf), [XDeepFM](https://arxiv.org/pdf/1803.05170.pdf) - Factorization Machines and some extended algorithms
 - **NLP**
   - [BERT](https://arxiv.org/pdf/1810.04805.pdf) - Pre-training of Deep Bidirectional Transformers for Language Understanding
 - **Deep Learning**
