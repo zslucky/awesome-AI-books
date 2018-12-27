@@ -84,6 +84,7 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
   - [Q-Learning](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf) SARSA [DQN](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) [DDQN](https://arxiv.org/pdf/1509.06461.pdf) - Q-Learning is a value-based Reinforcement Learning algorithm
   - [DDPG](https://arxiv.org/pdf/1509.02971.pdf) - Deep Deterministic Policy Gradient,
   - [Large-Scale Curiosity](https://arxiv.org/pdf/1808.04355.pdf) - Large-Scale Study of Curiosity-Driven Learning
+  - [PPO](https://arxiv.org/pdf/1707.06347.pdf) - OpenAI Proximal Policy Optimization Algorithms
   - [RND](https://arxiv.org/pdf/1810.12894.pdf) - OpenAI Random Network Distillation, an exploration bonus for deep reinforcement learning method.
   - [VIME](https://arxiv.org/pdf/1605.09674.pdf) - OpenAI Variational Information Maximizing Exploration
   - [DQV](https://arxiv.org/pdf/1810.00368.pdf) - Deep Quality-Value (DQV) Learning
