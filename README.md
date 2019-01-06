@@ -1,6 +1,6 @@
 # Awesome AI books
 
-Some awesome AI related books and pdfs for download and learning.
+Some awesome AI related books and pdfs for downloading and learning.
 
 ## Preface
 
@@ -28,16 +28,11 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 
 ## Books
 
+Some often used **Mathematic Symbols** can refer this [page](https://github.com/zslucky/awesome-AI-books/blob/master/math-symbols.md)
+
 ### Introductory theory
 
 - [Artificial Intelligence-A Modern Approach (3rd Edition)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Introductory%20theory/Artificial%20Intelligence-A%20Modern%20Approach.pdf) - Stuart Russell & peter Norvig
-
-### Data mining
-
-- [Introduction to Data Mining](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Introduction%20to%20Data%20Mining%20-%20Pang-Ning%20Tan.pdf) - Pang-Ning Tan
-- [Programming Collective Intelligence](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Programming%20Collective%20Intelligence%20-%20Toby%20Segaran.pdf) - Toby Segaran
-- [Feature Engineering for Machine Learning](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Feature%20Engineering%20for%20Machine%20Learning.pdf) - Amanda Casari, Alice Zheng
-- [集体智慧编程](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B%20-%20Toby%20Segaran.pdf) - Toby Segaran
 
 ### Mathematics
 
@@ -54,6 +49,13 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 - [概率论基础教程 (原书A First Course in ProbabilityA First Course in Probability第9版)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%20(%E5%8E%9F%E4%B9%A6%E7%AC%AC9%E7%89%88)%20-%20Sheldon%20M%20Ross.pdf) - Sheldon M Ross
 - [线性代数及其应用 (原书Linear Algebra and Its Applications第3版)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20(%E5%8E%9F%E4%B9%A6%E7%AC%AC3%E7%89%88)%20-%20David%20C%20Lay.pdf) - David C Lay
 - [统计推断 (原书Statistical Inference第二版)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD%20(%E5%8E%9F%E4%B9%A6%E7%AC%AC%E4%BA%8C%E7%89%88)%20-%20Roger%20Casella.pdf) - Roger Casella
+
+### Data mining
+
+- [Introduction to Data Mining](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Introduction%20to%20Data%20Mining%20-%20Pang-Ning%20Tan.pdf) - Pang-Ning Tan
+- [Programming Collective Intelligence](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Programming%20Collective%20Intelligence%20-%20Toby%20Segaran.pdf) - Toby Segaran
+- [Feature Engineering for Machine Learning](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/Feature%20Engineering%20for%20Machine%20Learning.pdf) - Amanda Casari, Alice Zheng
+- [集体智慧编程](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Data%20Mining/%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B%20-%20Toby%20Segaran.pdf) - Toby Segaran
 
 ### Machine Learning
 
