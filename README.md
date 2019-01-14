@@ -100,11 +100,11 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [FM](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf), [FastFM](https://arxiv.org/pdf/1505.00641.pdf), [FFM](https://arxiv.org/pdf/1701.04099.pdf), [XDeepFM](https://arxiv.org/pdf/1803.05170.pdf) - Factorization Machines and some extended algorithms
 - **Deep Learning**
   - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf) - Densely Connected Convolutional Networks
-  - [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) - Fast Region-based Convolutional Network method (Fast R-CNN) for object detection
-  - [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf) - Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition.
 - **NLP**
   - [BERT](https://arxiv.org/pdf/1810.04805.pdf) - Pre-training of Deep Bidirectional Transformers for Language Understanding
 - **CV**
+  - [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) - Fast Region-based Convolutional Network method (Fast R-CNN) for object detection
+  - [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf) - Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition.
   - [GQN](http://science.sciencemag.org/content/360/6394/1204/tab-pdf) - DeepMind Generative Query Network, Neural scene representation and rendering
 - **Meta Learning**
   - [MAML](https://arxiv.org/pdf/1703.03400.pdf) - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
