@@ -99,6 +99,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [RGF](https://arxiv.org/pdf/1109.0887.pdf) - Learning Nonlinear Functions Using `Regularized Greedy Forest` (multi-core implementation [FastRGF](https://github.com/RGF-team/rgf/tree/master/FastRGF))
   - [FM](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf), [FastFM](https://arxiv.org/pdf/1505.00641.pdf), [FFM](https://arxiv.org/pdf/1701.04099.pdf), [XDeepFM](https://arxiv.org/pdf/1803.05170.pdf) - Factorization Machines and some extended algorithms
 - **Deep Learning**
+  - [GNN Papers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
   - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf) - Densely Connected Convolutional Networks
 - **NLP**
   - [BERT](https://arxiv.org/pdf/1810.04805.pdf) - Pre-training of Deep Bidirectional Transformers for Language Understanding
