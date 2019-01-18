@@ -91,6 +91,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [VIME](https://arxiv.org/pdf/1605.09674.pdf) - OpenAI Variational Information Maximizing Exploration
   - [DQV](https://arxiv.org/pdf/1810.00368.pdf) - Deep Quality-Value (DQV) Learning
   - [ERL](https://arxiv.org/pdf/1805.07917.pdf) - Evolution-Guided Policy Gradient in Reinforcement Learning
+  - [MF Multi-Agent RL](https://arxiv.org/pdf/1802.05438.pdf) - Mean Field Multi-Agent Reinforcement Learning. (this paper include MF-Q and MF-AC)
 - **Machine Learning**
   - [Xgboost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) (**Python, R, JVM, Julia, CLI**) - Xgboost lib's document.
   - [LightGBM](https://lightgbm.readthedocs.io/en/latest/Features.html#) (**Python, R, CLI**) - Microsoft lightGBM lib's features document.
