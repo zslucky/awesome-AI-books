@@ -8,6 +8,28 @@ This repo only used for learning, do not use in business, and welcome for provid
 
 Due to github Large file storage limition issue, all books pdf stored in gitlab repo, please also create PR using git-lfs for gitlab [repo](https://gitlab.com/zslucky/awesome-AI-books)
 
+Some often used **Mathematic Symbols** can refer this [page](https://github.com/zslucky/awesome-AI-books/blob/master/math-symbols.md)
+
+## Content
+- [Organization with papers/researchs](https://github.com/zslucky/awesome-AI-books#organization-with-papersresearchs)
+- [Training ground](https://github.com/zslucky/awesome-AI-books#training-ground)
+- [Books](https://github.com/zslucky/awesome-AI-books#books)
+  - [Introductory theory](https://github.com/zslucky/awesome-AI-books#introductory-theory)
+  - [Mathematics](https://github.com/zslucky/awesome-AI-books#mathematics)
+  - [Data mining](https://github.com/zslucky/awesome-AI-books#data-mining)
+  - [Deep Learning](https://github.com/zslucky/awesome-AI-books#deep-learning)
+- [Libs With Online Books](https://github.com/zslucky/awesome-AI-books#libs-with-online-books)
+  - Reinforcement Learning
+  - Feature Selection
+  - Machine Learning
+  - Deep Learning
+  - NLP
+  - CV
+  - Meta Learning
+  - Transfer Learning
+  - Auto ML
+  - Dimensionality Rreduction
+
 ## Organization with papers/researchs
 
 - [Science](http://www.sciencemag.org/)
@@ -27,8 +49,6 @@ Due to github Large file storage limition issue, all books pdf stored in gitlab 
 
 
 ## Books
-
-Some often used **Mathematic Symbols** can refer this [page](https://github.com/zslucky/awesome-AI-books/blob/master/math-symbols.md)
 
 ### Introductory theory
 
@@ -81,7 +101,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [神经网络设计 (原书Neural Network Design)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Deep%20Learning/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1%20-%20Martin%20Hagan.pdf) - Martin Hagan
 
 ## Libs With Online Books
-- **Reinforcement Learning**
+- #### Reinforcement Learning
   - [A3C](https://arxiv.org/pdf/1602.01783.pdf) - Google DeepMind Asynchronous Advantage Actor-Critic algorithm
   - [Q-Learning](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf) SARSA [DQN](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) [DDQN](https://arxiv.org/pdf/1509.06461.pdf) - Q-Learning is a value-based Reinforcement Learning algorithm
   - [DDPG](https://arxiv.org/pdf/1509.02971.pdf) - Deep Deterministic Policy Gradient,
@@ -92,30 +112,32 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [DQV](https://arxiv.org/pdf/1810.00368.pdf) - Deep Quality-Value (DQV) Learning
   - [ERL](https://arxiv.org/pdf/1805.07917.pdf) - Evolution-Guided Policy Gradient in Reinforcement Learning
   - [MF Multi-Agent RL](https://arxiv.org/pdf/1802.05438.pdf) - Mean Field Multi-Agent Reinforcement Learning. (this paper include MF-Q and MF-AC)
-- **Machine Learning**
+- #### Feature Selection
+  - [scikit-feature](http://featureselection.asu.edu/algorithms.php) - A collection of feature selection algorithms, available on [Github](https://github.com/jundongl/scikit-feature)
+- #### Machine Learning
   - [Xgboost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) (**Python, R, JVM, Julia, CLI**) - Xgboost lib's document.
   - [LightGBM](https://lightgbm.readthedocs.io/en/latest/Features.html#) (**Python, R, CLI**) - Microsoft lightGBM lib's features document.
   - [CatBoost](https://arxiv.org/pdf/1706.09516.pdf) (**Python, R, CLI**) - Yandex Catboost lib's key algorithm pdf papper.
   - [StackNet](https://github.com/kaz-Anova/StackNet) (**Java, CLI**) - Some model stacking algorithms implemented in this lib.
   - [RGF](https://arxiv.org/pdf/1109.0887.pdf) - Learning Nonlinear Functions Using `Regularized Greedy Forest` (multi-core implementation [FastRGF](https://github.com/RGF-team/rgf/tree/master/FastRGF))
   - [FM](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf), [FastFM](https://arxiv.org/pdf/1505.00641.pdf), [FFM](https://arxiv.org/pdf/1701.04099.pdf), [XDeepFM](https://arxiv.org/pdf/1803.05170.pdf) - Factorization Machines and some extended algorithms
-- **Deep Learning**
+- #### Deep Learning
   - [GNN Papers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
   - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf) - Densely Connected Convolutional Networks
-- **NLP**
+- #### NLP
   - [BERT](https://arxiv.org/pdf/1810.04805.pdf) - Pre-training of Deep Bidirectional Transformers for Language Understanding
-- **CV**
+- #### CV
   - [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) - Fast Region-based Convolutional Network method (Fast R-CNN) for object detection
   - [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf) - Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition.
   - [GQN](http://science.sciencemag.org/content/360/6394/1204/tab-pdf) - DeepMind Generative Query Network, Neural scene representation and rendering
-- **Meta Learning**
+- #### Meta Learning
   - [MAML](https://arxiv.org/pdf/1703.03400.pdf) - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
-- **Transfer Learning**
+- #### Transfer Learning
   - [GCN](https://arxiv.org/pdf/1803.08035.pdf) - Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs
-- **Auto ML**
+- #### Auto ML
   - [TPOT](https://github.com/EpistasisLab/tpot) (**Python**) - TPOT is a lib for AutoML.
   - [TransmogrifAI](https://docs.transmogrif.ai/en/stable/index.html) (**JVM**) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Spark
-- **Dimensionality Rreduction**
+- #### Dimensionality Rreduction
   - [t-SNE](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf) (**Non-linear/Non-params**) - T-distributed Stochastic Neighbor Embedding (t-SNE) is a machine learning algorithm for visualization
   - [PCA](https://www.cs.cmu.edu/~elaw/papers/pca.pdf) (**Linear**) - Principal component analysis
   - [LDA](https://www.isip.piconepress.com/publications/reports/1998/isip/lda/lda_theory.pdf) (**Linear**) - Linear Discriminant Analysis
