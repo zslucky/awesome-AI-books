@@ -19,16 +19,16 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [Data mining](https://github.com/zslucky/awesome-AI-books#data-mining)
   - [Deep Learning](https://github.com/zslucky/awesome-AI-books#deep-learning)
 - [Libs With Online Books](https://github.com/zslucky/awesome-AI-books#libs-with-online-books)
-  - Reinforcement Learning
-  - Feature Selection
-  - Machine Learning
-  - Deep Learning
-  - NLP
-  - CV
-  - Meta Learning
-  - Transfer Learning
-  - Auto ML
-  - Dimensionality Rreduction
+  - [Reinforcement Learning](https://github.com/zslucky/awesome-AI-books#reinforcement-learning)
+  - [Feature Selection](https://github.com/zslucky/awesome-AI-books#feature-selection)
+  - [Machine Learning](https://github.com/zslucky/awesome-AI-books#machine-learning-1)
+  - [Deep Learning](https://github.com/zslucky/awesome-AI-books#deep-learning-1)
+  - [NLP](https://github.com/zslucky/awesome-AI-books#nlp)
+  - [CV](https://github.com/zslucky/awesome-AI-books#cv)
+  - [Meta Learning](https://github.com/zslucky/awesome-AI-books#meta-learning)
+  - [Transfer Learning](https://github.com/zslucky/awesome-AI-books#transfer-learning)
+  - [Auto ML](https://github.com/zslucky/awesome-AI-books#auto-ml)
+  - [Dimensionality Reduction](https://github.com/zslucky/awesome-AI-books#dimensionality-reduction)
 
 ## Organization with papers/researchs
 
@@ -137,7 +137,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - #### Auto ML
   - [TPOT](https://github.com/EpistasisLab/tpot) (**Python**) - TPOT is a lib for AutoML.
   - [TransmogrifAI](https://docs.transmogrif.ai/en/stable/index.html) (**JVM**) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Spark
-- #### Dimensionality Rreduction
+- #### Dimensionality Reduction
   - [t-SNE](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf) (**Non-linear/Non-params**) - T-distributed Stochastic Neighbor Embedding (t-SNE) is a machine learning algorithm for visualization
   - [PCA](https://www.cs.cmu.edu/~elaw/papers/pca.pdf) (**Linear**) - Principal component analysis
   - [LDA](https://www.isip.piconepress.com/publications/reports/1998/isip/lda/lda_theory.pdf) (**Linear**) - Linear Discriminant Analysis
