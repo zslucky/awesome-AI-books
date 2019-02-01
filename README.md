@@ -59,16 +59,20 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [A First Course in ProbabilityA First Course in Probability (8th)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/A%20First%20Course%20in%20Probability,%208th%20-%20Sheldon%20M%20Ross.pdf) - Sheldon M Ross
 - [Convex Optimization](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/Convex%20Optimization%20-%20Stephen%20Boyd.pdf) - Stephen Boyd
 - [Elements of Information Theory Elements](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/Elements%20of%20Information%20Theory%20Elements%20-%20Thomas%20Cover%20&%20Jay%20A%20Thomas.pdf) - Thomas Cover & Jay A Thomas
+- [Discrete Mathematics and Its Applications 7th](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/Discrete%20Mathematics%20and%20Its%20Applications%207th%20-%20Kenneth%20H.%20Rosen.pdf) - Kenneth H. Rosen
 - [Introduction to Linear Algebra (5th)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/Introduction%20to%20Linear%20Algebra%205th%20-%20Gilbert%20Strang.pdf) - Gilbert Strang
 - [Linear Algebra and Its Applications (5th)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/Linear%20Algebra%20and%20Its%20Applications%205th%20-%20David%20C%20Lay.pdf) - David C Lay
 - [Probability Theory The Logic of Science](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/Probability%20Theory%20The%20Logic%20of%20Science%20-%20Edwin%20Thompson%20Jaynes.pdf) - Edwin Thompson Jaynes
+- [Probability and Statistics 4th](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/Probability%20and%20Statistics%204th%20-%20Morris%20H.%20DeGroot.pdf) - Morris H. DeGroot
 - [Statistical Inference (2nd)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/Statistical%20Inference%202nd%20-%20Roger%20Casella.pdf) - Roger Casella
 - [信息论基础 (原书Elements of Information Theory Elements第2版)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%9F%BA%E7%A1%80%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88%20-%20Thomas%20Cover%20&%20Jay%20A%20Thomas.pdf) - Thomas Cover & Jay A Thomas
 - [凸优化 (原书Convex Optimization)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E5%87%B8%E4%BC%98%E5%8C%96%20-%20Stephen%20Boyd.pdf) - Stephen Boyd
 - [数理统计学教程](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%95%99%E7%A8%8B%20-%20%E9%99%88%E5%B8%8C%E5%84%92.pdf) - 陈希儒
+- [数学之美 2th](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%202th%20-%20%E5%90%B4%E5%86%9B.pdf) - 吴军
 - [概率论基础教程 (原书A First Course in ProbabilityA First Course in Probability第9版)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%20(%E5%8E%9F%E4%B9%A6%E7%AC%AC9%E7%89%88)%20-%20Sheldon%20M%20Ross.pdf) - Sheldon M Ross
 - [线性代数及其应用 (原书Linear Algebra and Its Applications第3版)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20(%E5%8E%9F%E4%B9%A6%E7%AC%AC3%E7%89%88)%20-%20David%20C%20Lay.pdf) - David C Lay
 - [统计推断 (原书Statistical Inference第二版)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD%20(%E5%8E%9F%E4%B9%A6%E7%AC%AC%E4%BA%8C%E7%89%88)%20-%20Roger%20Casella.pdf) - Roger Casella
+- [离散数学及其应用 (原书第7版)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Mathematics/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20(%E5%8E%9F%E4%B9%A6%E7%AC%AC7%E7%89%88)%20-%20Kenneth%20H.Rosen.pdf) - Kenneth H.Rosen
 
 ### Data mining
 
