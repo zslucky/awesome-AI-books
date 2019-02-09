@@ -116,6 +116,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [DQV](https://arxiv.org/pdf/1810.00368.pdf) - Deep Quality-Value (DQV) Learning
   - [ERL](https://arxiv.org/pdf/1805.07917.pdf) - Evolution-Guided Policy Gradient in Reinforcement Learning
   - [MF Multi-Agent RL](https://arxiv.org/pdf/1802.05438.pdf) - Mean Field Multi-Agent Reinforcement Learning. (this paper include MF-Q and MF-AC)
+  - [MAAC](https://arxiv.org/pdf/1810.02912.pdf) - Actor-Attention-Critic for Multi-Agent Reinforcement Learning
 - #### Feature Selection
   - [scikit-feature](http://featureselection.asu.edu/algorithms.php) - A collection of feature selection algorithms, available on [Github](https://github.com/jundongl/scikit-feature)
 - #### Machine Learning
