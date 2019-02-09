@@ -87,6 +87,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [Machine Learning](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Machine%20Learning/Machine%20Learning%20-%20Tom%20M.%20Mitchell.pdf) - Tom M. Mitchell
 - [Pattern Recognition and Machine Learning](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Machine%20Learning/Pattern%20Recognition%20and%20Machine%20Learning%20-%20Christopher%20Bishop.pdf) - Christopher Bishop
 - [The Elements of Statistical Learning](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Machine%20Learning/The%20Elements%20of%20Statistical%20Learning%20-%20Trevor%20Hastie%20.pdf) - Trevor Hastie
+- [Machine Learning for OpenCV](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Machine%20Learning/Machine%20Learning%20for%20OpenCV%20-%20Michael%20Beyeler.pdf) - Michael Beyeler
 - [机器学习](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Machine%20Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%94%E4%B8%AD%E6%96%87%E7%89%88%E3%80%95%20-%20%E5%91%A8%E5%BF%97%E5%8D%8E.pdf) - 周志华
 - [机器学习 (原书Machine Learning)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Machine%20Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%94%E4%B8%AD%E6%96%87%E7%89%88%E3%80%95-%20Tom%20M.%20Mitchell.pdf) - Tom M. Mitchell
 - [统计学习方法](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Machine%20Learning/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%20-%20%E6%9D%8E%E8%88%AA.pdf) - 李航
