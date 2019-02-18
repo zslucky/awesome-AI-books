@@ -4,9 +4,11 @@ Some awesome AI related books and pdfs for downloading and learning.
 
 ## Preface
 
-This repo only used for learning, do not use in business, and welcome for providing great books in this repo, if you have great books for sharing, please create PR for me, if any books have new edition, also welcome to update it.
+**This repo only used for learning, do not use in business.**
 
-Due to github Large file storage limition issue, all books pdf stored in gitlab repo, please also create PR using git-lfs for gitlab [repo](https://gitlab.com/zslucky/awesome-AI-books)
+Welcome for providing great books in this repo or tell me which great book you need and I will try to append it in this repo, any idea you can create issue or PR here.
+
+Due to github Large file storage limition, all books pdf stored in gitlab repo, please also create PR using git-lfs for gitlab [repo](https://gitlab.com/zslucky/awesome-AI-books)
 
 Some often used **Mathematic Symbols** can refer this [page](https://github.com/zslucky/awesome-AI-books/blob/master/math-symbols.md)
 
