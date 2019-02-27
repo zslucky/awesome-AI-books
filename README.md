@@ -48,6 +48,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [Google Dopamine](https://github.com/google/dopamine): Dopamine is a research framework for fast prototyping of reinforcement learning algorithms
 - [TextWorld](https://github.com/Microsoft/TextWorld): Microsoft - A learning environment sandbox for training and testing reinforcement learning (RL) agents on text-based games.
 - [Mini Grid](https://github.com/maximecb/gym-minigrid): Minimalistic gridworld environment for OpenAI Gym
+- [XWorld](https://github.com/PaddlePaddle/XWorld): A C++/Python simulator package for reinforcement learning
 
 
 ## Books
