@@ -49,6 +49,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [TextWorld](https://github.com/Microsoft/TextWorld): Microsoft - A learning environment sandbox for training and testing reinforcement learning (RL) agents on text-based games.
 - [Mini Grid](https://github.com/maximecb/gym-minigrid): Minimalistic gridworld environment for OpenAI Gym
 - [XWorld](https://github.com/PaddlePaddle/XWorld): A C++/Python simulator package for reinforcement learning
+- [Neural MMO](https://github.com/openai/neural-mmo) A Massively Multiagent Game Environment
 
 
 ## Books
