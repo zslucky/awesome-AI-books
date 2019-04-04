@@ -131,7 +131,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [CatBoost](https://arxiv.org/pdf/1706.09516.pdf) (**Python, R, CLI**) - Yandex Catboost lib's key algorithm pdf papper.
   - [StackNet](https://github.com/kaz-Anova/StackNet) (**Java, CLI**) - Some model stacking algorithms implemented in this lib.
   - [RGF](https://arxiv.org/pdf/1109.0887.pdf) - Learning Nonlinear Functions Using `Regularized Greedy Forest` (multi-core implementation [FastRGF](https://github.com/RGF-team/rgf/tree/master/FastRGF))
-  - [FM](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf), [FastFM](https://arxiv.org/pdf/1505.00641.pdf), [FFM](https://arxiv.org/pdf/1701.04099.pdf), [XDeepFM](https://arxiv.org/pdf/1803.05170.pdf) - Factorization Machines and some extended algorithms
+  - [FM](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf), [FastFM](https://arxiv.org/pdf/1505.00641.pdf), [FFM](https://arxiv.org/pdf/1701.04099.pdf), [XDeepFM](https://arxiv.org/pdf/1803.05170.pdf) - Factorization Machines and some extended Algorithms
 - #### Deep Learning
   - [GNN Papers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
   - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf) - Densely Connected Convolutional Networks
@@ -148,6 +148,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - #### Auto ML
   - [TPOT](https://github.com/EpistasisLab/tpot) (**Python**) - TPOT is a lib for AutoML.
   - [TransmogrifAI](https://docs.transmogrif.ai/en/stable/index.html) (**JVM**) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Spark
+  - [Auto-WEKAA](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/) - Provides automatic selection of models and hyperparameters for [WEKA](https://www.cs.waikato.ac.nz/ml/weka/).
 - #### Dimensionality Reduction
   - [t-SNE](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf) (**Non-linear/Non-params**) - T-distributed Stochastic Neighbor Embedding (t-SNE) is a machine learning algorithm for visualization
   - [PCA](https://www.cs.cmu.edu/~elaw/papers/pca.pdf) (**Linear**) - Principal component analysis
