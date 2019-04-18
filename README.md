@@ -20,6 +20,10 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [Mathematics](https://github.com/zslucky/awesome-AI-books#mathematics)
   - [Data mining](https://github.com/zslucky/awesome-AI-books#data-mining)
   - [Deep Learning](https://github.com/zslucky/awesome-AI-books#deep-learning)
+- [Quantum with AI](https://github.com/zslucky/awesome-AI-books#quantum-with-ai)
+  - [Quantum Basic](https://github.com/zslucky/awesome-AI-books#quantum-basic)
+  - [Quantum AI](https://github.com/zslucky/awesome-AI-books#quantum-ai)
+  - [Quantum Related Framework](https://github.com/zslucky/awesome-AI-books#quantum-related-framework)
 - [Libs With Online Books](https://github.com/zslucky/awesome-AI-books#libs-with-online-books)
   - [Reinforcement Learning](https://github.com/zslucky/awesome-AI-books#reinforcement-learning)
   - [Feature Selection](https://github.com/zslucky/awesome-AI-books#feature-selection)
@@ -109,6 +113,21 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [深度学习 (原书Deep Learning)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Deep%20Learning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20-%20Ian%20Goodfellow%20&%20Yoshua%20Bengio%20&%20Aaron%20Courville.pdf) - Ian Goodfellow & Yoshua Bengio & Aaron Courville
 - [神经网络与机器学习 (原书Neural Networks and Learning Machines)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Deep%20Learning/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20-%20Simon%20Haykin.pdf) - Simon Haykin
 - [神经网络设计 (原书Neural Network Design)](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Deep%20Learning/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1%20-%20Martin%20Hagan.pdf) - Martin Hagan
+
+## Quantum with AI
+
+- #### Quantum Basic
+  - [Quantum Computing Primer](https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer#h1-0) - D-Wave quantum computing primer
+  - [Quantum computing 101](https://uwaterloo.ca/institute-for-quantum-computing/quantum-computing-101) - Quantum computing 101, from University of Waterloo
+  - [pdf](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Quantum%20AI/Quantum%20Computation%20and%20Quantum%20Information%20-%20Nielsen.pdf) Quantum Computation and Quantum Information - Nielsen
+  - [pdf](https://gitlab.com/zslucky/awesome-AI-books/raw/master/Quantum%20AI/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E5%92%8C%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%20%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E9%83%A8%E5%88%86%20Nielsen.pdf) 量子计算和量子信息（量子计算部分）- Nielsen
+- #### Quantum AI
+  - [Quantum neural networks](http://axon.cs.byu.edu/papers/ezhov.fdisis00.pdf)
+  - [An Artificial Neuron Implemented on an Actual Quantum Processor](https://arxiv.org/pdf/1811.02266.pdf)
+  - [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/pdf/1802.06002.pdf)
+  - [Black Holes as Brains: Neural Networks with Area Law Entropy](https://arxiv.org/pdf/1801.03918.pdf)
+- #### Quantum Related Framework
+  - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - ProjectQ is an open source effort for quantum computing.
 
 ## Libs With Online Books
 - #### Reinforcement Learning
