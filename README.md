@@ -53,10 +53,11 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [Google Dopamine](https://github.com/google/dopamine): Dopamine is a research framework for fast prototyping of reinforcement learning algorithms
 - [TextWorld](https://github.com/Microsoft/TextWorld): Microsoft - A learning environment sandbox for training and testing reinforcement learning (RL) agents on text-based games.
 - [Mini Grid](https://github.com/maximecb/gym-minigrid): Minimalistic gridworld environment for OpenAI Gym
+- [MAgent](https://github.com/geek-ai/MAgent): A Platform for Many-agent Reinforcement Learning
 - [XWorld](https://github.com/PaddlePaddle/XWorld): A C++/Python simulator package for reinforcement learning
-- [Neural MMO](https://github.com/openai/neural-mmo) A Massively Multiagent Game Environment
-- [MinAtar](https://github.com/kenjyoung/MinAtar) - MinAtar is a testbed for AI agents which implements miniaturized version of several Atari 2600 games.
-- [craft-env](https://github.com/Feryal/craft-env) - CraftEnv is a 2D crafting environment
+- [Neural MMO](https://github.com/openai/neural-mmo): A Massively Multiagent Game Environment
+- [MinAtar](https://github.com/kenjyoung/MinAtar): MinAtar is a testbed for AI agents which implements miniaturized version of several Atari 2600 games.
+- [craft-env](https://github.com/Feryal/craft-env): CraftEnv is a 2D crafting environment
 
 
 ## Books
