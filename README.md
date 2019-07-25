@@ -160,6 +160,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf) - Rethinking Model Scaling for Convolutional Neural Networks
   - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf) - Densely Connected Convolutional Networks
 - #### NLP
+  - [XLNet](https://arxiv.org/pdf/1906.08237.pdf) - [repo](https://github.com/zihangdai/xlnet) XLNet: Generalized Autoregressive Pretraining for Language Understanding
   - [BERT](https://arxiv.org/pdf/1810.04805.pdf) - Pre-training of Deep Bidirectional Transformers for Language Understanding
 - #### CV
   - [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) - Fast Region-based Convolutional Network method (Fast R-CNN) for object detection
