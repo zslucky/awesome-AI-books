@@ -106,7 +106,10 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [统计学习方法](https://yadi.sk/i/R08dbDMOJb3KKw) - 李航
 
 ### Deep Learning
-
+- Online Quick learning
+  - [Dive into Deep Learning](https://d2l.ai/) - (Using MXNet)An interactive deep learning book with code, math, and discussions.
+  - [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - (Dive into Deep Learning) pytorch version.
+  - [动手学深度学习](https://zh.d2l.ai/) - (Dive into Deep Learning) for chinese.
 - [Deep Learning](https://yadi.sk/i/2fOK_Xib-JlocQ) - Ian Goodfellow & Yoshua Bengio & Aaron Courville
 - [Deep Learning Methods and Applications](https://yadi.sk/i/uQAWfeKVmenmkg) - Li Deng & Dong Yu
 - [Learning Deep Architectures for AI](https://yadi.sk/i/AWpRq2hSB9RmoQ) - Yoshua Bengio
@@ -117,6 +120,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [深度学习 (原书Deep Learning)](https://yadi.sk/i/DzzZU_QPosSTBQ) - Ian Goodfellow & Yoshua Bengio & Aaron Courville
 - [神经网络与机器学习 (原书Neural Networks and Learning Machines)](https://yadi.sk/i/ogQff9JpLEdHMg) - Simon Haykin
 - [神经网络设计 (原书Neural Network Design)](https://yadi.sk/i/uR2OAHHgnZHUuw) - Martin Hagan
+
 
 ## Quantum with AI
 
