@@ -20,6 +20,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [Mathematics](https://github.com/zslucky/awesome-AI-books#mathematics)
   - [Data mining](https://github.com/zslucky/awesome-AI-books#data-mining)
   - [Deep Learning](https://github.com/zslucky/awesome-AI-books#deep-learning)
+  - [Philosophy](https://github.com/zslucky/awesome-AI-books#philosophy)
 - [Quantum with AI](https://github.com/zslucky/awesome-AI-books#quantum-with-ai)
   - [Quantum Basic](https://github.com/zslucky/awesome-AI-books#quantum-basic)
   - [Quantum AI](https://github.com/zslucky/awesome-AI-books#quantum-ai)
@@ -121,6 +122,10 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [神经网络与机器学习 (原书Neural Networks and Learning Machines)](https://yadi.sk/i/ogQff9JpLEdHMg) - Simon Haykin
 - [神经网络设计 (原书Neural Network Design)](https://yadi.sk/i/uR2OAHHgnZHUuw) - Martin Hagan
 
+### Philosophy
+- **COMMERCIAL** [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem-ebook/dp/B07N5J5FTS) - Stuart Russell
+- **COMMERCIAL** [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598) - Max Tegmark
+- **COMMERCIAL** [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=pd_sbs_14_t_0/146-0357100-6717505?_encoding=UTF8&pd_rd_i=0198739834&pd_rd_r=676ace91-552c-4865-a8d3-6273db5418bf&pd_rd_w=zYEu2&pd_rd_wg=hQdGQ&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=DTH77KT4FSVRMJ47GBVQ&psc=1&refRID=DTH77KT4FSVRMJ47GBVQ) - Nick Bostrom
 
 ## Quantum with AI
 
