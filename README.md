@@ -74,7 +74,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [Convex Optimization](https://yadi.sk/i/9KGVXuFJs3kakg) - Stephen Boyd
 - [Elements of Information Theory Elements](https://yadi.sk/i/2YWnNsAeBc9qcA) - Thomas Cover & Jay A Thomas
 - [Discrete Mathematics and Its Applications 7th](https://yadi.sk/i/-r3jD4gB-8jn1A) - Kenneth H. Rosen
-- [Introduction to Linear Algebra (5th)](https://yadi.sk/i/thw4BEPWmZUDyA) - Gilbert Strang
+- [Introduction to Linear Algebra (5th)](http://www.mediafire.com/file/f31dl0ghup7e6gk/Introduction_to_Linear_Algebra_5th_-_Gilbert_Strang.pdf/file) - Gilbert Strang
 - [Linear Algebra and Its Applications (5th)](https://yadi.sk/i/uWEQVrCquqw1Ug) - David C Lay
 - [Probability Theory The Logic of Science](https://yadi.sk/i/TKQYNPSKGNbdUw) - Edwin Thompson Jaynes
 - [Probability and Statistics 4th](https://yadi.sk/i/38jrMmEXnJQZqg) - Morris H. DeGroot
