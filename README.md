@@ -105,6 +105,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [机器学习](https://yadi.sk/i/vfoPTRRfgtEQKA) - 周志华
 - [机器学习 (原书Machine Learning)](https://yadi.sk/i/jTNv4kzG-lmlYQ) - Tom M. Mitchell
 - [统计学习方法](https://yadi.sk/i/R08dbDMOJb3KKw) - 李航
+- [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms)
 
 ### Deep Learning
 - Online Quick learning
