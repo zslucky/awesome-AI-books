@@ -16,7 +16,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [Organization with papers/researchs](https://github.com/zslucky/awesome-AI-books#organization-with-papersresearchs)
 - [Training ground](https://github.com/zslucky/awesome-AI-books#training-ground)
 - [Books](https://github.com/zslucky/awesome-AI-books#books)
-  - [Introductory theory](https://github.com/zslucky/awesome-AI-books#introductory-theory)
+  - [Introductory theory and get start](https://github.com/zslucky/awesome-AI-books#introductory-theory-and-get-start)
   - [Mathematics](https://github.com/zslucky/awesome-AI-books#mathematics)
   - [Data mining](https://github.com/zslucky/awesome-AI-books#data-mining)
   - [Deep Learning](https://github.com/zslucky/awesome-AI-books#deep-learning)
@@ -64,7 +64,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 
 ## Books
 
-### Introductory theory
+### Introductory theory and get start
 
 - [Artificial Intelligence-A Modern Approach (3rd Edition)](https://yadi.sk/i/G6NlUUV8SAVimg) - Stuart Russell & peter Norvig
 
