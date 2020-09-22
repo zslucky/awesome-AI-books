@@ -51,6 +51,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [DeepMind Pysc2](https://github.com/deepmind/pysc2): StarCraft II Learning Environment.
 - [TorchCraftAI](https://torchcraft.github.io/TorchCraftAI/): A bot platform for machine learning research on StarCraft®: Brood War®
 - [Valve Dota2](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting): Dota2 game acessing api. ([CN doc](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting:zh-cn))
+- [Mario AI Framework](https://github.com/amidos2006/Mario-AI-Framework): A Mario AI framework for using AI methods.
 - [Google Dopamine](https://github.com/google/dopamine): Dopamine is a research framework for fast prototyping of reinforcement learning algorithms
 - [TextWorld](https://github.com/Microsoft/TextWorld): Microsoft - A learning environment sandbox for training and testing reinforcement learning (RL) agents on text-based games.
 - [Mini Grid](https://github.com/maximecb/gym-minigrid): Minimalistic gridworld environment for OpenAI Gym
@@ -67,6 +68,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 ### Introductory theory and get start
 
 - [Artificial Intelligence-A Modern Approach (3rd Edition)](https://yadi.sk/i/G6NlUUV8SAVimg) - Stuart Russell & peter Norvig
+- **COMMERCIAL** [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms) - Rishal Hurbans
 
 ### Mathematics
 
