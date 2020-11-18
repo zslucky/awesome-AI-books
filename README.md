@@ -62,6 +62,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [MinAtar](https://github.com/kenjyoung/MinAtar): MinAtar is a testbed for AI agents which implements miniaturized version of several Atari 2600 games.
 - [craft-env](https://github.com/Feryal/craft-env): CraftEnv is a 2D crafting environment
 - [gym-sokoban](https://github.com/mpSchrader/gym-sokoban): Sokoban is Japanese for warehouse keeper and a traditional video game
+- [Pommerman](https://github.com/MultiAgentLearning/playground) Playground hosts Pommerman, a clone of Bomberman built for AI research.
 
 
 ## Books
