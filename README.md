@@ -63,6 +63,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [craft-env](https://github.com/Feryal/craft-env): CraftEnv is a 2D crafting environment
 - [gym-sokoban](https://github.com/mpSchrader/gym-sokoban): Sokoban is Japanese for warehouse keeper and a traditional video game
 - [Pommerman](https://github.com/MultiAgentLearning/playground) Playground hosts Pommerman, a clone of Bomberman built for AI research.
+- [gym-miniworld](https://github.com/maximecb/gym-miniworld#introduction) MiniWorld is a minimalistic 3D interior environment simulator for reinforcement learning & robotics research
 
 
 ## Books
