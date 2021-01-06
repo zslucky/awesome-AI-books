@@ -50,6 +50,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 
 - [OpenAI Gym](https://gym.openai.com/): A toolkit for developing and comparing reinforcement learning algorithms. (Can play with [Atari](https://en.wikipedia.org/wiki/Atari), Box2d, MuJoCo etc...)
 - [DeepMind Pysc2](https://github.com/deepmind/pysc2): StarCraft II Learning Environment.
+- [Procgen](https://github.com/openai/procgen): Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments.
 - [TorchCraftAI](https://torchcraft.github.io/TorchCraftAI/): A bot platform for machine learning research on StarCraft®: Brood War®
 - [Valve Dota2](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting): Dota2 game acessing api. ([CN doc](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting:zh-cn))
 - [Mario AI Framework](https://github.com/amidos2006/Mario-AI-Framework): A Mario AI framework for using AI methods.
