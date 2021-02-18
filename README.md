@@ -65,6 +65,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [gym-sokoban](https://github.com/mpSchrader/gym-sokoban): Sokoban is Japanese for warehouse keeper and a traditional video game
 - [Pommerman](https://github.com/MultiAgentLearning/playground) Playground hosts Pommerman, a clone of Bomberman built for AI research.
 - [gym-miniworld](https://github.com/maximecb/gym-miniworld#introduction) MiniWorld is a minimalistic 3D interior environment simulator for reinforcement learning & robotics research
+- [vizdoomgym](https://github.com/shakenes/vizdoomgym) OpenAI Gym wrapper for [ViZDoom](https://github.com/mwydmuch/ViZDoom) (A Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information) enviroments.
 
 
 ## Books
