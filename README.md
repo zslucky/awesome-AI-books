@@ -188,9 +188,10 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - #### Transfer Learning
   - [GCN](https://arxiv.org/pdf/1803.08035.pdf) - Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs
 - #### Auto ML
+  - [Model Search](https://github.com/google/model_search) (**Python**) - Google Model search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. 
   - [TPOT](https://github.com/EpistasisLab/tpot) (**Python**) - TPOT is a lib for AutoML.
   - [Auto-sklearn](https://automl.github.io/auto-sklearn/master/) (**Python**) - auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
-  - [Auto-Keras])(https://autokeras.com/) (**Python**) - Auto-Keras is an open source software library for automated machine learning (AutoML). It is developed by DATA Lab
+  - [Auto-Keras](https://autokeras.com/) (**Python**) - Auto-Keras is an open source software library for automated machine learning (AutoML). It is developed by DATA Lab
   - [TransmogrifAI](https://docs.transmogrif.ai/en/stable/index.html) (**JVM**) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Spark
   - [Auto-WEKAA](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/) - Provides automatic selection of models and hyperparameters for [WEKA](https://www.cs.waikato.ac.nz/ml/weka/).
   - [MLBox](https://github.com/AxeldeRomblay/MLBox) (**Python**) - MLBox is a powerful Automated Machine Learning python library
