@@ -195,6 +195,8 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [TransmogrifAI](https://docs.transmogrif.ai/en/stable/index.html) (**JVM**) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Spark
   - [Auto-WEKAA](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/) - Provides automatic selection of models and hyperparameters for [WEKA](https://www.cs.waikato.ac.nz/ml/weka/).
   - [MLBox](https://github.com/AxeldeRomblay/MLBox) (**Python**) - MLBox is a powerful Automated Machine Learning python library
+- #### Pipeline Training
+  - [ZenML](https://github.com/maiot-io/zenml) (**Python**) - ZenML is built for ML practitioners who are ramping up their ML workflows towards production
 - #### Dimensionality Reduction
   - [t-SNE](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf) (**Non-linear/Non-params**) - T-distributed Stochastic Neighbor Embedding (t-SNE) is a machine learning algorithm for visualization
   - [PCA](https://www.cs.cmu.edu/~elaw/papers/pca.pdf) (**Linear**) - Principal component analysis
