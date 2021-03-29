@@ -66,6 +66,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [Pommerman](https://github.com/MultiAgentLearning/playground) Playground hosts Pommerman, a clone of Bomberman built for AI research.
 - [gym-miniworld](https://github.com/maximecb/gym-miniworld#introduction) MiniWorld is a minimalistic 3D interior environment simulator for reinforcement learning & robotics research
 - [vizdoomgym](https://github.com/shakenes/vizdoomgym) OpenAI Gym wrapper for [ViZDoom](https://github.com/mwydmuch/ViZDoom) (A Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information) enviroments.
+- [ddz-ai](https://github.com/freefuiiismyname/ddz-ai) 以孤立语假设和宽度优先搜索为基础，构建了一种多通道堆叠注意力Transformer结构的斗地主ai
 
 
 ## Books
