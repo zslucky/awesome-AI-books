@@ -180,6 +180,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - #### NLP
   - [XLNet](https://arxiv.org/pdf/1906.08237.pdf) - [repo](https://github.com/zihangdai/xlnet) XLNet: Generalized Autoregressive Pretraining for Language Understanding
   - [BERT](https://arxiv.org/pdf/1810.04805.pdf) - Pre-training of Deep Bidirectional Transformers for Language Understanding
+  - [GPT-3](https://arxiv.org/pdf/2005.14165.pdf) - Language Models are Few-Shot Learners
 - #### CV
   - [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) - Fast Region-based Convolutional Network method (Fast R-CNN) for object detection
   - [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf) - Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition.
