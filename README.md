@@ -210,6 +210,7 @@ two spaces
 
 ## Distributed training
 - [Horovod](https://github.com/horovod/horovod#usage) - Horovod is a distributed training framework for TensorFlow, Keras, PyTorch, and MXNet. The goal of Horovod is to make distributed Deep Learning fast and easy to use.
+- [Acme](https://github.com/deepmind/acme) - A Research Framework for (Distributed) Reinforcement Learning. 
 
 
 ## Contributors
