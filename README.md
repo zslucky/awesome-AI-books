@@ -49,6 +49,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 ## Training ground
 
 - [OpenAI Gym](https://gym.openai.com/): A toolkit for developing and comparing reinforcement learning algorithms. (Can play with [Atari](https://en.wikipedia.org/wiki/Atari), Box2d, MuJoCo etc...)
+- [malmo](https://github.com/Microsoft/malmo): Project Malmö is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. 
 - [DeepMind Pysc2](https://github.com/deepmind/pysc2): StarCraft II Learning Environment.
 - [Procgen](https://github.com/openai/procgen): Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments.
 - [TorchCraftAI](https://torchcraft.github.io/TorchCraftAI/): A bot platform for machine learning research on StarCraft®: Brood War®
