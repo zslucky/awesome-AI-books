@@ -131,6 +131,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [神经网络与机器学习 (原书Neural Networks and Learning Machines)](https://yadi.sk/i/ogQff9JpLEdHMg) - Simon Haykin
 - [神经网络设计 (原书Neural Network Design)](https://yadi.sk/i/uR2OAHHgnZHUuw) - Martin Hagan
 - **COMMERCIAL** [Interpretable AI](https://www.manning.com/books/interpretable-ai) - Ajay Thampi
+- **COMMERCIAL** [Conversational AI](https://www.manning.com/books/conversational-ai) - Andrew R. Freed
 
 ### Philosophy
 - **COMMERCIAL** [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem-ebook/dp/B07N5J5FTS) - Stuart Russell
