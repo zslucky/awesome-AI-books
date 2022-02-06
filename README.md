@@ -169,6 +169,8 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - #### Feature Selection
   - [scikit-feature](http://featureselection.asu.edu/algorithms.php) - A collection of feature selection algorithms, available on [Github](https://github.com/jundongl/scikit-feature)
 - #### Machine Learning
+  - [Scikit learn](https://scikit-learn.org/stable/) (**Python**) - Machine Learning in Python.
+  - [Linfa](https://github.com/rust-ml/linfa) (**Rust**) - spirit of `scikit learn`, a rust ML lib.
   - [Xgboost](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) (**Python, R, JVM, Julia, CLI**) - Xgboost lib's document.
   - [LightGBM](https://lightgbm.readthedocs.io/en/latest/Features.html#) (**Python, R, CLI**) - Microsoft lightGBM lib's features document.
   - [CatBoost](https://arxiv.org/pdf/1706.09516.pdf) (**Python, R, CLI**) - Yandex Catboost lib's key algorithm pdf papper.
@@ -209,6 +211,9 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [Laplacian Eigenmaps](http://web.cse.ohio-state.edu/~belkin.8/papers/LEM_NC_03.pdf) - Laplacian Eigenmaps for Dimensionality Reduction and Data Representation
   - [Sammon Mapping](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0910/henderson.pdf) (**Non-linear**) - Sammon mapping is designed to minimise the differences between corresponding inter-point distances in the
 two spaces
+- #### Data Processing
+  - [Pandas](https://github.com/pandas-dev/pandas) (**Python**) - Flexible and powerful data analysis / manipulation library for Python.
+  - [Polars](https://github.com/pola-rs/polars) (**Rust, Python**) - Lightning-fast DataFrame library for Rust and Python.
 
 ## Distributed training
 - [Horovod](https://github.com/horovod/horovod#usage) - Horovod is a distributed training framework for TensorFlow, Keras, PyTorch, and MXNet. The goal of Horovod is to make distributed Deep Learning fast and easy to use.
