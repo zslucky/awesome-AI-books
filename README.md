@@ -220,6 +220,10 @@ two spaces
 - [Acme](https://github.com/deepmind/acme) - A Research Framework for (Distributed) Reinforcement Learning. 
 - [bagua](https://github.com/BaguaSys/bagua) - Bagua is a flexible and performant distributed training algorithm development framework.
 
+## Support this project
+![btc-clean-qrcode](https://user-images.githubusercontent.com/15725589/152709449-f6b7174b-2990-43f6-ac69-c8549fe7310c.png)
+![eth-clean-qrcode](https://user-images.githubusercontent.com/15725589/152709451-6c2691f9-dec7-4b60-9d20-9fdded828c8c.png)
+
 
 ## Contributors
 
