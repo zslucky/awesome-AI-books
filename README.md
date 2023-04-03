@@ -154,6 +154,13 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - ProjectQ is an open source effort for quantum computing.
 
 ## Libs With Online Books
+- #### GC (Generative Content)
+  - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - [[Paper](https://arxiv.org/abs/2112.10752)] A latent text-to-image diffusion model
+  - [Stable Diffusion V2](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+  - [GFPGAN](https://github.com/TencentARC/GFPGAN) - [[Paper](https://arxiv.org/abs/2101.04061)] GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+  - [ESRGAN](https://github.com/xinntao/ESRGAN) - [[Paper](https://arxiv.org/abs/2107.10833)] ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
+  - [CodeFormer](https://github.com/sczhou/CodeFormer) - [[Paper](https://arxiv.org/abs/2206.11253)] - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+  - [UniPC](https://github.com/wl-zhao/UniPC) - [[Paper](https://arxiv.org/abs/2302.04867)] UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models
 - #### Reinforcement Learning
   - [A3C](https://arxiv.org/pdf/1602.01783.pdf) - Google DeepMind Asynchronous Advantage Actor-Critic algorithm
   - [Q-Learning](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf) SARSA [DQN](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) [DDQN](https://arxiv.org/pdf/1509.06461.pdf) - Q-Learning is a value-based Reinforcement Learning algorithm
