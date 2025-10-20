@@ -76,6 +76,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 
 - [Artificial Intelligence-A Modern Approach (3rd Edition)](https://yadi.sk/i/G6NlUUV8SAVimg) - Stuart Russell & peter Norvig
 - **COMMERCIAL** [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms) - Rishal Hurbans
+- **COMMERCIAL** [Grokking AI Algorithms, Second Edition](https://www.manning.com/books/grokking-ai-algorithms-second-edition) - Rishal Hurbans
 
 ### Mathematics
 
