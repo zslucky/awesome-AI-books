@@ -90,6 +90,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
 - [Probability Theory The Logic of Science](https://yadi.sk/i/TKQYNPSKGNbdUw) - Edwin Thompson Jaynes
 - [Probability and Statistics 4th](https://yadi.sk/i/38jrMmEXnJQZqg) - Morris H. DeGroot
 - [Statistical Inference (2nd)](https://yadi.sk/i/HWrbKYrYdpNMYw) - Roger Casella
+- [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Monteiro
 - [信息论基础 (原书Elements of Information Theory Elements第2版)](https://yadi.sk/i/HqGOyAkRCxCwIQ) - Thomas Cover & Jay A Thomas
 - [凸优化 (原书Convex Optimization)](https://yadi.sk/i/zUPPAi58v1gfkw) - Stephen Boyd
 - [数理统计学教程](https://yadi.sk/i/ikuXCrNgRCEVnw) - 陈希儒
