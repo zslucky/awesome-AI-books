@@ -194,6 +194,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf) - Densely Connected Convolutional Networks
 - #### LLM
   - [WFGY](https://github.com/onestardao/WFGY) - Open source framework and TXT/PDF pack for debugging and stress testing large language models using a 16 Problem Map of failure modes. Includes a PDF book (WFGY 1.0), practical RAG clinics (WFGY 2.0), and a long-horizon TXT playground (WFGY 3.0) for studying LLM behaviour.
+  - [How to Build Optimal AI Agents That Actually Work](https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/) - A freeCodeCamp handbook for developers on designing and building effective AI agents.
 - #### NLP
   - [XLNet](https://arxiv.org/pdf/1906.08237.pdf) - [repo](https://github.com/zihangdai/xlnet) XLNet: Generalized Autoregressive Pretraining for Language Understanding
   - [BERT](https://arxiv.org/pdf/1810.04805.pdf) - Pre-training of Deep Bidirectional Transformers for Language Understanding
