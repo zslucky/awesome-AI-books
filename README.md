@@ -1,5 +1,7 @@
 # Awesome AI books
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 Some awesome AI related books and pdfs for downloading and learning.
 
 ## Preface
